@@ -1,0 +1,85 @@
+.title {
+    font-family: 'Staatliches', cursive;
+    color: rgb(44, 74, 114) !important;
+}
+
+.survey-text{
+    font-family: 'Staatliches', cursive;
+    color: rgb(44, 74, 114) !important;
+}
+.mainFont {
+    font-family: 'Staatliches', cursive;
+    font-weight: bold;
+    font-size: 30px;
+    color: rgb(44, 74, 114);
+
+}
+
+
+
+.signature{
+    font-family: 'Pacifico', cursive; 
+    font-size: 8px;  
+    text-align: right;
+    color: rgb(255, 255, 255, 0.8) !important;
+    margin-right: 120px;
+}
+.buttons {
+    margin-top: 40px;
+    font-family: 'Staatliches', cursive;
+    background-color: yellowgreen !important;
+    font-size: 20px;
+    border: 2px solid rgb(255, 255, 255, 0.5);
+    
+}
+
+.btn-area {
+    background-color: rgb(47, 40, 158, 0.3) !important;
+    height: 150px;
+    border-radius: 8px;
+
+    
+
+}
+
+.main-background{
+    background-image:  url("../images/rainbow.jpg");
+    background-size: cover;
+}
+
+.head-background {
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+.api-text {
+    color: white !important;
+    text-decoration: none;
+}
+
+#match-img {
+    width: 400px;
+    height: 300px;
+    text-align: center;
+}
+
+.about-title{
+    font-family: 'Shadows Into Light', cursive;
+    color: rgb(44, 74, 114);
+}
+
+#match-name{
+
+    font-family: 'Shadows Into Light', cursive;
+    color: rgb(44, 74, 114) !important;
+
+}
+
+.modal-title {
+    font-family: 'Pacifico', cursive;
+    color: #FD5401 !important;
+}
+
+.survey-background{
+    background-image:  url("../images/rainbow.jpg");
+    background-size: cover;
+}
