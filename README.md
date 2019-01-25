@@ -7,12 +7,12 @@ In world of millions of people, sometimes it can be hard to find a true friend. 
 
 This compatibility based application will take in results from users' surveys then compare their results against other users who have completed it. The application will then display the name and picture of the user with the best match overall.
 
-The survey has 10 statements that the user rates on a scale of 1-5 based on how much the user agrees or disagrees (1 = Strongly Disagree/ 5= Strongly Agree.
+The survey has 10 statements that the user rates on a scale of 1-5 based on how much the user agrees or disagrees (1 = Strongly Disagree/ 5= Strongly Agree)
 
 Deployed in Heroku @ https://stark-sierra-88457.herokuapp.com/
 
 
-Technical details --
+Apps Inner Workings --
 
 ** The application uses Express to handle routing **
 
