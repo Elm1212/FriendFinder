@@ -2,7 +2,7 @@ var  friendsArray = [
     {
         "name": "Stevie Wonder",
         "photo": 
-        "https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiLsZLus4LgAhURbK0KHQg5DUQQjRx6BAgBEAU&url=http%3A%2F%2Fsing.wikia.com%2Fwiki%2FFile%3AStevie_Wonder.jpg&psig=AOvVaw3fo3gYCmxP-YBko6R2hW3l&ust=1548281411984544",
+        "../public/images/Stevie_Wonder.jpg",
         "scores": [
         "3",
         "1",
