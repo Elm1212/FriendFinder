@@ -21,11 +21,13 @@ Apps Inner Workings --
  - The html-routes.js file includes two routes:
 
   -- A GET Route to /survey which displays the survey page.
+  
   -- A USE route that leads to home.html which displays the home page.
 
 The api-routes.js file includes two routes:
 
   -- A GET route with the url /api/friends. This will be used to display a JSON of all possible friends
+  
   -- A POST route /api/friends. This will be used to handle incoming survey results. This route will also be used to handle the             compatibility logic.
   
 Compatibility will be determined based on the following:
